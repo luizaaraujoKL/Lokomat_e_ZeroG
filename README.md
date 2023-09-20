@@ -21,3 +21,5 @@ Protocolos de uso
 Programa principal
 Tutorial de monitoramento
 Informações sobre comunicação com computador de experimentos
+
+Clique aqui https://github.com/luizaaraujoKL/Lokomat_e_ZeroG.wiki.git para mais informações.
